@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an example use case of the KG UI (https://github.com/MaayanLab/Gene-Knowledge-Graph) which produces a regulatory network of transcription factors. Other existing implementations of the KG UI are described in `other_projects.md`. 
 
 ## Getting Started
 
